@@ -1,0 +1,1778 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v5.2.cf7d3637)"
+    },
+    "extensionsUsed": [
+        "KHR_materials_volume",
+        "FB_ngon_encoding"
+    ],
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 8994,
+            "type": "VEC3",
+            "max": [
+                -0.1739417314529419,
+                6.871244430541992,
+                4.346923828125
+            ],
+            "min": [
+                -5.4792866706848148,
+                -0.6359319686889648,
+                -4.469112873077393
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 8994,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 8994,
+            "type": "VEC2",
+            "max": [
+                0.875,
+                1.0
+            ],
+            "min": [
+                0.125,
+                0.0
+            ]
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 8994,
+            "type": "SCALAR",
+            "max": [
+                8993
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 6,
+            "type": "VEC3",
+            "max": [
+                -3.4565491676330568,
+                6.706113815307617,
+                3.1145706176757814
+            ],
+            "min": [
+                -3.4565491676330568,
+                -0.3510420322418213,
+                -3.1145706176757814
+            ]
+        },
+        {
+            "bufferView": 5,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 6,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "min": [
+                1.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "bufferView": 6,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 6,
+            "type": "VEC2",
+            "max": [
+                0.875,
+                1.0
+            ],
+            "min": [
+                0.625,
+                0.75
+            ]
+        },
+        {
+            "bufferView": 7,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 6,
+            "type": "SCALAR",
+            "max": [
+                5
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 8,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 6,
+            "type": "VEC3",
+            "max": [
+                -3.0643093585968019,
+                1.7853978872299195,
+                0.6938856840133667
+            ],
+            "min": [
+                -3.0643093585968019,
+                -0.06284207105636597,
+                -0.6960518956184387
+            ]
+        },
+        {
+            "bufferView": 9,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 6,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "min": [
+                1.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "bufferView": 10,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 6,
+            "type": "VEC2",
+            "max": [
+                0.875,
+                1.0
+            ],
+            "min": [
+                0.625,
+                0.75
+            ]
+        },
+        {
+            "bufferView": 11,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 6,
+            "type": "SCALAR",
+            "max": [
+                5
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 12,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 30,
+            "type": "VEC3",
+            "max": [
+                -1.0483958721160889,
+                2.3001065254211427,
+                3.104379892349243
+            ],
+            "min": [
+                -1.9525694847106934,
+                -0.3538830876350403,
+                -3.1065444946289064
+            ]
+        },
+        {
+            "bufferView": 13,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 30,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                3.115333129244391e-7,
+                0.0
+            ],
+            "min": [
+                1.0,
+                -3.3950092870327355e-7,
+                0.0
+            ]
+        },
+        {
+            "bufferView": 14,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 30,
+            "type": "VEC2",
+            "max": [
+                0.875,
+                1.0
+            ],
+            "min": [
+                0.625,
+                0.75
+            ]
+        },
+        {
+            "bufferView": 15,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 30,
+            "type": "SCALAR",
+            "max": [
+                29
+            ],
+            "min": [
+                0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 325296,
+            "uri": "result.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 107928,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 107928,
+            "byteLength": 107928,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 215856,
+            "byteLength": 71952,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 287808,
+            "byteLength": 35976,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 323784,
+            "byteLength": 72,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 323856,
+            "byteLength": 72,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 323928,
+            "byteLength": 48,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 323976,
+            "byteLength": 24,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 324000,
+            "byteLength": 72,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 324072,
+            "byteLength": 72,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 324144,
+            "byteLength": 48,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 324192,
+            "byteLength": 24,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 324216,
+            "byteLength": 360,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 324576,
+            "byteLength": 360,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 324936,
+            "byteLength": 240,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 325176,
+            "byteLength": 120,
+            "target": 34963
+        }
+    ],
+    "materials": [
+        {
+            "name": "lambert3",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6083199977874756,
+                    0.3086400032043457,
+                    0.2147200107574463,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            }
+        },
+        {
+            "name": "lambert6",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.3232000172138214,
+                    0.16398684680461884,
+                    0.11408960074186325,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            }
+        },
+        {
+            "name": "lambert4",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            }
+        },
+        {
+            "name": "lambert5",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.3232000172138214,
+                    0.16398684680461884,
+                    0.11408960074186325,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "pCube6",
+            "primitives": [
+                {
+                    "extensions": {
+                        "FB_ngon_encoding": {}
+                    },
+                    "mode": 4,
+                    "material": 0,
+                    "indices": 3,
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    }
+                },
+                {
+                    "extensions": {
+                        "FB_ngon_encoding": {}
+                    },
+                    "mode": 4,
+                    "material": 1,
+                    "indices": 7,
+                    "attributes": {
+                        "POSITION": 4,
+                        "NORMAL": 5,
+                        "TEXCOORD_0": 6
+                    }
+                },
+                {
+                    "extensions": {
+                        "FB_ngon_encoding": {}
+                    },
+                    "mode": 4,
+                    "material": 2,
+                    "indices": 11,
+                    "attributes": {
+                        "POSITION": 8,
+                        "NORMAL": 9,
+                        "TEXCOORD_0": 10
+                    }
+                },
+                {
+                    "extensions": {
+                        "FB_ngon_encoding": {}
+                    },
+                    "mode": 4,
+                    "material": 3,
+                    "indices": 15,
+                    "attributes": {
+                        "POSITION": 12,
+                        "NORMAL": 13,
+                        "TEXCOORD_0": 14
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "children": [
+                1,
+                3,
+                5,
+                7,
+                9,
+                11,
+                13,
+                15,
+                17,
+                19,
+                21,
+                23,
+                25,
+                27,
+                29,
+                31,
+                33,
+                35,
+                37,
+                45,
+                53
+            ]
+        },
+        {
+            "name": "pCube1",
+            "matrix": [
+                5.168606281280518,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                7.50717830657959,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                12.929169654846192,
+                0.0,
+                -2.8949835300445558,
+                3.11765718460083,
+                0.0,
+                1.0
+            ],
+            "children": [
+                2
+            ],
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "transform20",
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "pCube2",
+            "matrix": [
+                3.7739200592041017,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                2.653989553451538,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                6.2109222412109379,
+                0.0,
+                -2.9353551864624025,
+                0.9731118083000183,
+                -0.0010832683183252812,
+                1.0
+            ],
+            "children": [
+                4
+            ],
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "transform15",
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "pCube3",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -2.226651906967163,
+                2.4914724826812746,
+                0.0,
+                1.0
+            ],
+            "children": [
+                6
+            ],
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "transform8",
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "pCylinder1",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -0.5631930232048035,
+                0.9408770799636841,
+                -0.8683114647865295,
+                1.0
+            ],
+            "children": [
+                8
+            ],
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "transform13",
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "pCylinder2",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -0.5631930232048035,
+                0.9408770799636841,
+                -2.77156925201416,
+                1.0
+            ],
+            "children": [
+                10
+            ],
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "transform6",
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "pCylinder4",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -0.5631930232048035,
+                0.9408770799636841,
+                -1.6008042097091675,
+                1.0
+            ],
+            "children": [
+                12
+            ],
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "transform11",
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "pCylinder5",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -0.5631930232048035,
+                0.9408770799636841,
+                2.8503763675689699,
+                1.0
+            ],
+            "children": [
+                14
+            ],
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "transform19",
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "pCylinder6",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -0.5631930232048035,
+                0.9408770799636841,
+                1.638612151145935,
+                1.0
+            ],
+            "children": [
+                16
+            ],
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "transform18",
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "pCube4",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -1.5530788898468018,
+                3.0601632595062258,
+                0.0,
+                1.0
+            ],
+            "children": [
+                18
+            ],
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "transform14",
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "pCylinder7",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -1.451628565788269,
+                4.648428440093994,
+                0.0,
+                1.0
+            ],
+            "children": [
+                20
+            ],
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "transform17",
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "pCylinder8",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -0.8846393823623657,
+                4.443743705749512,
+                0.844338595867157,
+                1.0
+            ],
+            "children": [
+                22
+            ],
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "transform7",
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "pCylinder9",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -1.644149661064148,
+                4.443743705749512,
+                0.844338595867157,
+                1.0
+            ],
+            "children": [
+                24
+            ],
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "transform16",
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "pCylinder10",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -0.8703034520149231,
+                4.443743705749512,
+                -0.8139588832855225,
+                1.0
+            ],
+            "children": [
+                26
+            ],
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "transform12",
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "pCone1",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.348476767539978,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -1.3473292589187623,
+                6.269937038421631,
+                0.0,
+                1.0
+            ],
+            "children": [
+                28
+            ],
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "transform5",
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "pCube5",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                2.7348272800445558,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0560660362243653,
+                0.0,
+                5.56299352645874,
+                0.0,
+                9.165538787841797,
+                1.0
+            ],
+            "children": [
+                30
+            ],
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "transform1",
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "pCylinder11",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -0.5631930232048035,
+                0.9408770799636841,
+                0.8957458138465881,
+                1.0
+            ],
+            "children": [
+                32
+            ],
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "transform9",
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "pCylinder12",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.7886384129524231,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                6.060648441314697,
+                -0.2974449694156647,
+                8.609612464904786,
+                1.0
+            ],
+            "children": [
+                34
+            ],
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "transform3",
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "pCylinder13",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.7886384129524231,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                6.060648441314697,
+                -0.2974449694156647,
+                9.639431953430176,
+                1.0
+            ],
+            "children": [
+                36
+            ],
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "transform2",
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "pCylinder14_$AssimpFbx$_Translation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -6.914599418640137,
+                4.669792175292969,
+                -6.811740398406982,
+                1.0
+            ],
+            "children": [
+                38
+            ]
+        },
+        {
+            "name": "pCylinder14_$AssimpFbx$_RotationPivot",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                5.56299352645874,
+                0.1764914095401764,
+                9.165538787841797,
+                1.0
+            ],
+            "children": [
+                39
+            ]
+        },
+        {
+            "name": "pCylinder14_$AssimpFbx$_RotationPivotInverse",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -5.56299352645874,
+                -0.1764914095401764,
+                -9.165538787841797,
+                1.0
+            ],
+            "children": [
+                40
+            ]
+        },
+        {
+            "name": "pCylinder14_$AssimpFbx$_ScalingPivot",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                5.56299352645874,
+                0.1764914095401764,
+                9.165538787841797,
+                1.0
+            ],
+            "children": [
+                41
+            ]
+        },
+        {
+            "name": "pCylinder14_$AssimpFbx$_Scaling",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.8880802989006043,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                42
+            ]
+        },
+        {
+            "name": "pCylinder14_$AssimpFbx$_ScalingPivotInverse",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -5.56299352645874,
+                -0.1764914095401764,
+                -9.165538787841797,
+                1.0
+            ],
+            "children": [
+                43
+            ]
+        },
+        {
+            "name": "pCylinder14",
+            "children": [
+                44
+            ],
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "transform4",
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "pCylinder15_$AssimpFbx$_Translation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -6.914599418640137,
+                4.669792175292969,
+                -11.468338012695313,
+                1.0
+            ],
+            "children": [
+                46
+            ]
+        },
+        {
+            "name": "pCylinder15_$AssimpFbx$_RotationPivot",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                5.56299352645874,
+                0.1764914095401764,
+                9.165538787841797,
+                1.0
+            ],
+            "children": [
+                47
+            ]
+        },
+        {
+            "name": "pCylinder15_$AssimpFbx$_RotationPivotInverse",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -5.56299352645874,
+                -0.1764914095401764,
+                -9.165538787841797,
+                1.0
+            ],
+            "children": [
+                48
+            ]
+        },
+        {
+            "name": "pCylinder15_$AssimpFbx$_ScalingPivot",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                5.56299352645874,
+                0.1764914095401764,
+                9.165538787841797,
+                1.0
+            ],
+            "children": [
+                49
+            ]
+        },
+        {
+            "name": "pCylinder15_$AssimpFbx$_Scaling",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                -0.8960898518562317,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                50
+            ]
+        },
+        {
+            "name": "pCylinder15_$AssimpFbx$_ScalingPivotInverse",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -5.56299352645874,
+                -0.1764914095401764,
+                -9.165538787841797,
+                1.0
+            ],
+            "children": [
+                51
+            ]
+        },
+        {
+            "name": "pCylinder15",
+            "children": [
+                52
+            ],
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "transform10",
+            "extras": {
+                "UserProperties": "",
+                "IsNull": true,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "pCube6_$AssimpFbx$_Translation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                2.0332844257354738,
+                0.0,
+                1.0
+            ],
+            "children": [
+                54
+            ]
+        },
+        {
+            "name": "pCube6_$AssimpFbx$_RotationPivot",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -2.8266141414642336,
+                3.1176564693450929,
+                -0.06109468266367912,
+                1.0
+            ],
+            "children": [
+                55
+            ]
+        },
+        {
+            "name": "pCube6_$AssimpFbx$_RotationPivotInverse",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                2.8266141414642336,
+                -3.1176564693450929,
+                0.06109468266367912,
+                1.0
+            ],
+            "children": [
+                56
+            ]
+        },
+        {
+            "name": "pCube6_$AssimpFbx$_ScalingPivot",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -2.8266141414642336,
+                3.1176564693450929,
+                -0.06109468266367912,
+                1.0
+            ],
+            "children": [
+                57
+            ]
+        },
+        {
+            "name": "pCube6_$AssimpFbx$_Scaling",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.3751769065856934,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                58
+            ]
+        },
+        {
+            "name": "pCube6_$AssimpFbx$_ScalingPivotInverse",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                2.8266141414642336,
+                -3.1176564693450929,
+                0.06109468266367912,
+                1.0
+            ],
+            "children": [
+                59
+            ]
+        },
+        {
+            "name": "pCube6",
+            "mesh": 0,
+            "extras": {
+                "UserProperties": "",
+                "IsNull": false,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "RotationActive": true,
+                "ScalingMax": null,
+                "currentUVSet": "map1"
+            }
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}
